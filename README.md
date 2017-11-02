@@ -1,4 +1,2 @@
 # hello-world
-babby's first repository
-
-I am a meat popsicle.
+baby's first repository
